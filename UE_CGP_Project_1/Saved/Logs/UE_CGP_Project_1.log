@@ -1,0 +1,1140 @@
+﻿Log file open, 08/26/21 23:08:02
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UE_CGP_Project_1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.492091
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=nateaskanison -epicuserid=7eb59068eda24ed3b80431df89c34af7 -epiclocale=en
+LogInit: Base Directory: E:/Games/Epic Game/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.27-03.08.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.27-03.08.03:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.27-03.08.03:511][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.27-03.08.03:511][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.27-03.08.03:511][  0]LogHAL: Display: Platform has ~ 32 GB [34277818368 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.27-03.08.03:511][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.27-03.08.03:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.27-03.08.03:516][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.27-03.08.03:516][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.27-03.08.03:516][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.27-03.08.03:516][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.08.27-03.08.03:516][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Config/Windows/Editor.ini]
+[2021.08.27-03.08.03:516][  0]LogInit: Computer: ASKANISONPC
+[2021.08.27-03.08.03:516][  0]LogInit: User: natea
+[2021.08.27-03.08.03:516][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.08.27-03.08.03:516][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.27-03.08.03:516][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.08.27-03.08.03:516][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.27-03.08.03:516][  0]LogMemory: Process Physical Memory: 140.97 MB used, 140.97 MB peak
+[2021.08.27-03.08.03:516][  0]LogMemory: Process Virtual Memory: 129.45 MB used, 129.45 MB peak
+[2021.08.27-03.08.03:516][  0]LogMemory: Physical Memory: 18493.84 MB used,  14196.04 MB free, 32689.88 MB total
+[2021.08.27-03.08.03:516][  0]LogMemory: Virtual Memory: 134212984.00 MB used,  4745.42 MB free, 134217728.00 MB total
+[2021.08.27-03.08.03:550][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.27-03.08.03:656][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.27-03.08.03:660][  0]LogInit: Using OS detected language (en-US).
+[2021.08.27-03.08.03:660][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.27-03.08.03:700][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.27-03.08.04:021][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.27-03.08.04:036][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-03.08.04:072][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.27-03.08.04:072][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.27-03.08.05:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.27-03.08.05:108][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.27-03.08.05:108][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.27-03.08.05:108][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.27-03.08.05:218][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.08.27-03.08.05:219][  0]LogD3D11RHI:       8011/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.27-03.08.05:221][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.27-03.08.05:221][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.27-03.08.05:221][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.27-03.08.05:235][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.27-03.08.05:235][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.27-03.08.05:235][  0]LogWindows: EnumDisplayDevices:
+[2021.08.27-03.08.05:235][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.08.27-03.08.05:235][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.08.27-03.08.05:235][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.08.27-03.08.05:235][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.08.27-03.08.05:236][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.27-03.08.05:236][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.08.27-03.08.05:236][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.27-03.08.05:236][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.27-03.08.05:236][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.08.27-03.08.05:303][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.27-03.08.05:303][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.27-03.08.05:303][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.27-03.08.05:304][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2021.08.27-03.08.05:326][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.27-03.08.05:327][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.27-03.08.05:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.27-03.08.05:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.27-03.08.06:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.27-03.08.06:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.27-03.08.06:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.27-03.08.06:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.27-03.08.06:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.27-03.08.06:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.27-03.08.06:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.27-03.08.06:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.27-03.08.06:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.27-03.08.06:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.27-03.08.06:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.27-03.08.06:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.27-03.08.06:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.27-03.08.06:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.27-03.08.06:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.27-03.08.06:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.27-03.08.06:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.27-03.08.06:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.27-03.08.06:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.27-03.08.06:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.27-03.08.06:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.27-03.08.06:337][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.27-03.08.06:366][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.27-03.08.06:465][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.27-03.08.06:465][  0]LogShaderCompilers: Guid format shader working directory is -49 characters bigger than the processId version (D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Intermediate/Shaders/WorkingDirectory/29412/).
+[2021.08.27-03.08.06:465][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/natea/AppData/Local/Temp/UnrealShaderWorkingDir/453A86504E1AF264CA2AA8B4EF8DD7F3/'.
+[2021.08.27-03.08.06:465][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.27-03.08.06:465][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.27-03.08.07:396][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.27-03.08.07:579][  0]LogDerivedDataCache: Loaded boot cache 0.18s 77MB C:/Users/natea/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.27-03.08.07:579][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/natea/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.27-03.08.07:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.27-03.08.07:579][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.27-03.08.07:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.27-03.08.07:579][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.27-03.08.07:601][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.27-03.08.07:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.27-03.08.07:601][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.27-03.08.07:705][  0]LogDerivedDataCache: Speed tests for E:/Unreal Cache took 0.10 seconds
+[2021.08.27-03.08.07:705][  0]LogDerivedDataCache: Display: Performance to E:/Unreal Cache: Latency=1.56ms. RandomReadSpeed=17.37MBs, RandomWriteSpeed=29.65MBs. Assigned SpeedClass 'Fast'
+[2021.08.27-03.08.07:705][  0]LogDerivedDataCache: Using Local data cache path E:/Unreal Cache: Writable
+[2021.08.27-03.08.07:705][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.27-03.08.07:705][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.27-03.08.07:741][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.27-03.08.07:742][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.27-03.08.07:797][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.08.27-03.08.07:981][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.27-03.08.07:981][  0]LogInit: Active device profile: [000001E8EE037400][000001E8E358F1C0 49] Windows
+[2021.08.27-03.08.07:981][  0]LogInit: Profiles: [000001E8EE037400][000001E8E358F1C0 49] Windows, [000001E8EE048F00][000001E8EC455340 49] WindowsNoEditor, [000001E8EE035000][000001E8EC4594C0 49] WindowsServer, [000001E8EE04AD00][000001E8EC451600 49] WindowsClient, [000001E8EE036E00][000001E8EC45D740 49] IOS, [000001E8EE049400][000001E8E2DCB880 49] iPadAir, [000001E8EE035500][000001E8E2DCF9C0 49] iPadAir2, [000001E8EDFFCA00][000001E8E2DDBC80 49] IPadPro, [000001E8EDFFCB00][000001E8E2DD7CC0 49] iPadAir3, [000001E8EE036900][000001E8E2DDE180 49] iPadAir4, [000001E8EDFFF500][000001E8E2DE2300 49] iPadMini2, [000001E8EE035800][000001E8E2DE6480 49] iPadMini3, [000001E8EDFFE000][000001E8E2DEA600 49] iPadMini4, [000001E8EE034D00][000001E8E2DEE780 49] iPadMini5, [000001E8EE04AF00][000001E8E2DF6A40 49] iPhone6, [000001E8EE04AE00][000001E8E2DF2A80 49] iPodTouch6, [000001E8EDFFE100][000001E8E2DFED40 49] iPhone7, [000001E8EDFFC100][000001E8E2DFAD80 49] iPodTouch7, [000001E8EE04A500][000001E8E2E02F00 49] iPhone5S, [000001E8EDFFED00][000001E8E2E07080 49] iPhone6Plus, [000001E8EE04B700][000001E8EE471200 49] iPhone6S, [000001E8EDFFD800][000001E8EE475380 49] iPhone6SPlus, [000001E8EE048400][000001E8EE479500 49] iPhone7Plus, [000001E8EDFFD700][000001E8E2DD3640 49] iPhoneSE, [000001E8EE04A300][000001E8EE47D780 49] iPhone8, [000001E8EDFFF700][000001E8EE4818C0 49] iPhone8Plus, [000001E8EE048300][000001E8EE485A00 49] iPhoneX, [000001E8EDFFDA00][000001E8EE48DB80 49] iPhoneXS, [000001E8EE04AC00][000001E8EE491D00 49] iPhoneXSMax, [000001E8EDFFF000][000001E8EE4941C0 49] iPhoneXR, [000001E8EE049700][000001E8EE498340 49] iPhone11, [000001E8EDFFEE00][000001E8EE49C4C0 49] iPhone11Pro, [000001E8EE04B600][000001E8EE4A0640 49] iPhone11ProMax, [000001E8EDFFFE00][000001E8EE4A47C0 49] iPhoneSE2, [000001E8EE049800][000001E8EE4A8940 49] iPhone12Mini, [000001E8EDFFE500][000001E8EE4ACAC0 49] iPhone12, [000001E8EE04B000][000001E8EE4B0C40 49] iPhone12Pro, [000001E8EDFFEB00][000001E8EE4B4DC0 49] iPhone12ProMax, [000001E8EE048C00][000001E8EE4B8F40 49] iPadPro105, [000001E8EDFFD100][000001E8EE4BD0C0 49] iPadPro129, [000001E8EE048700][000001E8EE4C1240 49] iPadPro97, [000001E8EDFFFF00][000001E8EE4C53C0 49] iPadPro2_129, [000001E8EE04A600][000001E8EE4C9540 49] iPad5, [000001E8EDFFDC00][000001E8EE4CD6C0 49] iPad6, [000001E8EE04A900][000001E8EE489800 49] iPad7, [000001E8EDFFC300][000001E8EE4D1940 49] iPad8, [000001E8EE049100][000001E8EE4D5A80 49] iPadPro11, [000001E8EDFFD200][000001E8EE4DDC00 49] iPadPro2_11, [000001E8EE048D00][000001E8EE4E00C0 49] iPadPro3_129, [000001E8EDFFF600][000001E8EE4E4240 49] iPadPro4_129, [000001E8EE04BB00][000001E8EE4E83C0 49] AppleTV, [000001E8EDFFEF00][000001E8EE4EC540 49] AppleTV4K, [000001E8EE049D00][000001E8EE4F06C0 49] TVOS, [000001E8EDFFCE00][000001E8EE4F4840 49] Mac, [000001E8EE04A200][000001E8EE4F89C0 49] MacClient, [000001E8EDFFE400][000001E8EE4FCB40 49] MacNoEditor, [000001E8EE04A100][000001E8EE500CC0 49] MacServer, [000001E8EE034B00][000001E8EE504E40 49] Linux, [000001E8EE0D8E00][000001E8EE508FC0 49] LinuxAArch64, [000001E8EE036C00][000001E8EE50D140 49] LinuxNoEditor, [000001E8EE0D8200][000001E8EE5112C0 49] LinuxAArch64NoEditor, [000001E8EE037200][000001E8EE515440 49] LinuxClient, [000001E8EE0D9200][000001E8EE5195C0 49] LinuxAArch64Client, [000001E8EE034C00][000001E8EE51D740 49] LinuxServer, [000001E8EE0D8400][000001E8EE4D9880 49] LinuxAArch64Server, [000001E8EE035F00][000001E8EE5219C0 49] Android, [000001E8EE0D9400][000001E8EE525B00 49] Android_Low, [000001E8EE037000][000001E8EE529C40 49] Android_Mid, [000001E8EE0D8500][000001E8EE530100 49] Android_High, [000001E8EE036400][000001E8EE534280 49] Android_Default, [000001E8EE0D9100][000001E8EE538400 49] Android_Adreno4xx, [000001E8EE034800][000001E8EE53C580 49] Android_Adreno5xx_Low, [000001E8EE0D8600][000001E8EE540700 49] Android_Adreno5xx, [000001E8EE04AB00][000001E8EE544880 49] Android_Adreno6xx, [000001E8EDFFD000][000001E8EE548A00 49] Android_Adreno6xx_Vulkan, [000001E8EE04A700][000001E8EE54CB80 49] Android_Mali_T6xx, [000001E8EDFFC500][000001E8EE550D00 49] Android_Mali_T7xx, [000001E8EE04BE00][000001E8EE554E80 49] Android_Mali_T8xx, [000001E8EDFFE700][000001E8EE559000 49] Android_Mali_G71, [000001E8EE04BD00][000001E8EE55D180 49] Android_Mali_G72, [000001E8EDFFD300][000001E8EE561300 49] Android_Mali_G72_Vulkan, [000001E8EE048500][000001E8EE565480 49] Android_Mali_G76, [000001E8EDFFDD00][000001E8EE569600 49] Android_Mali_G76_Vulkan, [000001E8EE04A000][000001E8EE56D780 49] Android_Mali_G77, [000001E8EDFFC900][000001E8EE52D8C0 49] Android_Mali_G77_Vulkan, [000001E8EE049600][000001E8EE571A00 49] Android_Vulkan_SM5, [000001E8EDFFF900][000001E8EE575B40 49] Android_PowerVR_G6xxx, [000001E8EE04B100][000001E8EE579C80 49] Android_PowerVR_GT7xxx, [000001E8EDFFF800][000001E8EE580140 49] Android_PowerVR_GE8xxx, [000001E8EE04B500][000001E8EE5842C0 49] Android_PowerVR_GM9xxx, [000001E8EDFFDB00][000001E8EE588440 49] Android_PowerVR_GM9xxx_Vulkan, [000001E8EE04BA00][000001E8EE58C5C0 49] Android_TegraK1, [000001E8EDFFDE00][000001E8EE590740 49] Android_Unknown_Vulkan, [000001E8EE04A400][000001E8EE5948C0 49] Lumin, [000001E8EE01FE00][000001E8EE598A40 49] Lumin_Desktop, [000001E8EE035700][000001E8EE59CBC0 49] HoloLens, 
+[2021.08.27-03.08.08:127][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.27-03.08.08:127][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.27-03.08.08:127][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.27-03.08.08:127][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.27-03.08.08:127][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.27-03.08.08:151][  0]LogNetVersion: UE_CGP_Project_1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2391051391)
+[2021.08.27-03.08.09:195][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.27-03.08.09:220][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.025041 seconds
+[2021.08.27-03.08.09:224][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.27-03.08.09:224][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.27-03.08.09:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.27-03.08.09:829][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.27-03.08.09:853][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.27-03.08.10:336][  0]SourceControl: Source control is disabled
+[2021.08.27-03.08.10:336][  0]SourceControl: Source control is disabled
+[2021.08.27-03.08.10:354][  0]SourceControl: Source control is disabled
+[2021.08.27-03.08.10:365][  0]SourceControl: Source control is disabled
+[2021.08.27-03.08.10:391][  0]SourceControl: Source control is disabled
+[2021.08.27-03.08.10:450][  0]LogUProjectInfo: Found projects:
+[2021.08.27-03.08.10:689][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.27-03.08.10:707][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.27-03.08.10:707][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.27-03.08.10:756][  0]LogCollectionManager: Loaded 0 collections in 0.000446 seconds
+[2021.08.27-03.08.10:776][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Collections/' took 0.00s
+[2021.08.27-03.08.10:776][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/Developers/natea/Collections/' took 0.00s
+[2021.08.27-03.08.10:776][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/Collections/' took 0.00s
+[2021.08.27-03.08.10:776][  0]LogOcInput: OculusInput pre-init called
+[2021.08.27-03.08.10:786][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.27-03.08.10:786][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.27-03.08.10:827][  0]LogEngine: Initializing Engine...
+[2021.08.27-03.08.10:828][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.27-03.08.10:829][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.27-03.08.10:830][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.27-03.08.10:907][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.27-03.08.10:915][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.27-03.08.10:923][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.27-03.08.10:927][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.27-03.08.10:927][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-03.08.10:927][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-03.08.10:927][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-03.08.10:927][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-03.08.10:941][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-03.08.10:941][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-03.08.10:961][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.08.27-03.08.10:963][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-03.08.10:964][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-03.08.10:964][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-03.08.10:965][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-03.08.10:965][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-03.08.10:965][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.27-03.08.10:966][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-03.08.10:966][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-03.08.10:966][  0]LogInit: FAudioDevice initialized.
+[2021.08.27-03.08.10:966][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.27-03.08.10:966][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.27-03.08.11:029][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/natea/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.27-03.08.11:030][  0]LogInit: Texture streaming: Enabled
+[2021.08.27-03.08.11:041][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.27-03.08.11:044][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.27-03.08.11:044][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.27-03.08.11:044][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.27-03.08.11:065][  0]LogInit: Transaction tracking system initialized
+[2021.08.27-03.08.11:090][  0]BlueprintLog: New page: Editor Load
+[2021.08.27-03.08.11:341][  0]LocalizationService: Localization service is disabled
+[2021.08.27-03.08.11:437][  0]TimingProfiler: Initialize
+[2021.08.27-03.08.11:437][  0]TimingProfiler: OnSessionChanged
+[2021.08.27-03.08.11:437][  0]LoadingProfiler: Initialize
+[2021.08.27-03.08.11:437][  0]LoadingProfiler: OnSessionChanged
+[2021.08.27-03.08.11:437][  0]NetworkingProfiler: Initialize
+[2021.08.27-03.08.11:437][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.27-03.08.11:437][  0]MemoryProfiler: Initialize
+[2021.08.27-03.08.11:437][  0]MemoryProfiler: OnSessionChanged
+[2021.08.27-03.08.11:657][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.27-03.08.11:657][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.27-03.08.11:840][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/' took 0.00s
+[2021.08.27-03.08.11:950][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.27-03.08.11:953][  0]SourceControl: Source control is disabled
+[2021.08.27-03.08.11:953][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.701
+[2021.08.27-03.08.11:962][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Games/Epic Game/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.08.27-03.08.11:966][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-03.08.11:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.11:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-03.08.11:977][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.08.27-03.08.11:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.08.27-03.08.11:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.08.27-03.08.12:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.08.27-03.08.12:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.08.27-03.08.12:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.08.27-03.08.12:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.08.27-03.08.12:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.08.27-03.08.12:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.08.27-03.08.12:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.08.27-03.08.12:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.08.27-03.08.12:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.08.27-03.08.12:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.08.27-03.08.12:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.08.27-03.08.12:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.08.27-03.08.12:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.08.27-03.08.12:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.08.27-03.08.12:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.08.27-03.08.12:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Fire01.uasset"
+[2021.08.27-03.08.12:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.08.27-03.08.12:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.08.27-03.08.12:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.08.27-03.08.12:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Light01.uasset"
+[2021.08.27-03.08.12:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.08.27-03.08.12:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Light02.uasset"
+[2021.08.27-03.08.12:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.08.27-03.08.12:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.08.27-03.08.12:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.08.27-03.08.12:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.08.27-03.08.12:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.08.27-03.08.12:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.08.27-03.08.12:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.08.27-03.08.12:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.08.27-03.08.12:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.08.27-03.08.12:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Steam01.uasset"
+[2021.08.27-03.08.12:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.08.27-03.08.12:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.08.27-03.08.12:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.08.27-03.08.12:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.08.27-03.08.12:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.08.27-03.08.12:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.08.27-03.08.12:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.08.27-03.08.12:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.08.27-03.08.12:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.08.27-03.08.12:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.08.27-03.08.12:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.08.27-03.08.12:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.08.27-03.08.12:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.08.27-03.08.12:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.08.27-03.08.12:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.08.27-03.08.12:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.08.27-03.08.12:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.08.27-03.08.13:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.08.27-03.08.13:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.08.27-03.08.13:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.08.27-03.08.13:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.08.27-03.08.13:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.08.27-03.08.13:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Maps/StarterMap.umap"
+[2021.08.27-03.08.13:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.08.27-03.08.13:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.08.27-03.08.13:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.08.27-03.08.13:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.08.27-03.08.13:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.08.27-03.08.13:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.08.27-03.08.13:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.08.27-03.08.13:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.08.27-03.08.13:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.08.27-03.08.13:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.08.27-03.08.13:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.08.27-03.08.13:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.08.27-03.08.13:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.08.27-03.08.13:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.08.27-03.08.13:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.08.27-03.08.13:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.08.27-03.08.13:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.08.27-03.08.13:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.08.27-03.08.13:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.08.27-03.08.13:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.08.27-03.08.13:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.08.27-03.08.13:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.08.27-03.08.13:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.08.27-03.08.13:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.08.27-03.08.13:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.08.27-03.08.13:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.08.27-03.08.13:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.08.27-03.08.13:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.08.27-03.08.13:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.08.27-03.08.13:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.08.27-03.08.13:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.08.27-03.08.13:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.08.27-03.08.13:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.08.27-03.08.13:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.08.27-03.08.13:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.08.27-03.08.13:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.08.27-03.08.13:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.08.27-03.08.13:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.08.27-03.08.13:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.08.27-03.08.13:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.08.27-03.08.13:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.08.27-03.08.13:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.08.27-03.08.13:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.08.27-03.08.13:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.08.27-03.08.13:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.08.27-03.08.13:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.08.27-03.08.13:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.08.27-03.08.13:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.08.27-03.08.13:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.08.27-03.08.13:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.08.27-03.08.13:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.08.27-03.08.13:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.08.27-03.08.13:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.08.27-03.08.13:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.08.27-03.08.13:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.08.27-03.08.13:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.08.27-03.08.13:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.08.27-03.08.13:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.08.27-03.08.13:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.08.27-03.08.13:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.08.27-03.08.13:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.08.27-03.08.13:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.08.27-03.08.13:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.08.27-03.08.13:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.08.27-03.08.13:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.08.27-03.08.13:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Door.uasset"
+[2021.08.27-03.08.13:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.08.27-03.08.13:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.08.27-03.08.13:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.08.27-03.08.13:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.08.27-03.08.13:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.08.27-03.08.13:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.08.27-03.08.13:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.08.27-03.08.13:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.08.27-03.08.13:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.08.27-03.08.13:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.08.27-03.08.13:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.08.27-03.08.13:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.08.27-03.08.13:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.08.27-03.08.13:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.08.27-03.08.14:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.08.27-03.08.14:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.08.27-03.08.14:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.08.27-03.08.14:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.08.27-03.08.14:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.08.27-03.08.14:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.08.27-03.08.14:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.08.27-03.08.14:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.08.27-03.08.14:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.08.27-03.08.14:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.08.27-03.08.14:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.08.27-03.08.14:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.08.27-03.08.14:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.08.27-03.08.14:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.08.27-03.08.14:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.08.27-03.08.14:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.08.27-03.08.14:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.08.27-03.08.14:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.08.27-03.08.14:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.08.27-03.08.14:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.08.27-03.08.14:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.08.27-03.08.14:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.08.27-03.08.14:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.08.27-03.08.14:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.08.27-03.08.14:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.08.27-03.08.14:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.08.27-03.08.14:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.08.27-03.08.14:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.08.27-03.08.14:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.08.27-03.08.14:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.08.27-03.08.14:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.08.27-03.08.14:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.08.27-03.08.14:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.08.27-03.08.14:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.08.27-03.08.14:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.08.27-03.08.14:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.08.27-03.08.14:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.08.27-03.08.14:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.08.27-03.08.14:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.08.27-03.08.14:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.08.27-03.08.14:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.08.27-03.08.14:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.08.27-03.08.15:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.08.27-03.08.15:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.08.27-03.08.15:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.08.27-03.08.15:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.08.27-03.08.15:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.08.27-03.08.15:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.08.27-03.08.15:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.08.27-03.08.15:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.08.27-03.08.15:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.08.27-03.08.15:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.08.27-03.08.15:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.08.27-03.08.15:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.08.27-03.08.15:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.08.27-03.08.15:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.08.27-03.08.15:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.08.27-03.08.15:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.08.27-03.08.15:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.08.27-03.08.15:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.08.27-03.08.15:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.08.27-03.08.15:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.08.27-03.08.15:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.08.27-03.08.15:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.08.27-03.08.15:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.08.27-03.08.15:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.08.27-03.08.15:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.08.27-03.08.15:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.08.27-03.08.15:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.08.27-03.08.15:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.08.27-03.08.15:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.08.27-03.08.15:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.08.27-03.08.15:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.08.27-03.08.15:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.08.27-03.08.15:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.08.27-03.08.15:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.08.27-03.08.15:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.08.27-03.08.15:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.08.27-03.08.16:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.08.27-03.08.16:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.08.27-03.08.16:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.08.27-03.08.16:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.08.27-03.08.16:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.08.27-03.08.17:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.08.27-03.08.17:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.08.27-03.08.17:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.08.27-03.08.17:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.08.27-03.08.18:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.08.27-03.08.18:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.08.27-03.08.19:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.08.27-03.08.19:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.08.27-03.08.19:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.08.27-03.08.20:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.08.27-03.08.20:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.08.27-03.08.20:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.08.27-03.08.20:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.08.27-03.08.20:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.08.27-03.08.21:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.08.27-03.08.21:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.08.27-03.08.21:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.08.27-03.08.22:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.08.27-03.08.22:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.08.27-03.08.23:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.08.27-03.08.23:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.08.27-03.08.23:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.08.27-03.08.23:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.08.27-03.08.23:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.08.27-03.08.23:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.08.27-03.08.23:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.08.27-03.08.23:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.08.27-03.08.23:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.08.27-03.08.23:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.08.27-03.08.23:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.08.27-03.08.24:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.08.27-03.08.24:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.08.27-03.08.24:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.08.27-03.08.24:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.08.27-03.08.24:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.08.27-03.08.24:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.08.27-03.08.24:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.08.27-03.08.24:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.08.27-03.08.24:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.08.27-03.08.24:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.08.27-03.08.24:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.08.27-03.08.24:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.08.27-03.08.24:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.08.27-03.08.24:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.08.27-03.08.24:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.08.27-03.08.25:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.08.27-03.08.25:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.08.27-03.08.25:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.08.27-03.08.25:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.08.27-03.08.25:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.08.27-03.08.25:220][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-03.08.25:369][  0]LogSavePackage: Moving 'D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Saved/Floor_400x40051C9653B4C56A641D47416991DF6716B.tmp' to 'D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.08.27-03.08.25:371][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.08.27-03.08.25:371][  0]Cmd: MAP LOAD FILE="D:/GitHub Repositories/Casual Game Prod/Project 1 - Scrub-a-Dub/CGP-Project-1/UE_CGP_Project_1/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.27-03.08.25:371][  0]LightingResults: New page: Lighting Build
+[2021.08.27-03.08.25:373][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-03.08.25:373][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-03.08.25:373][  0]MapCheck: New page: Map Check
+[2021.08.27-03.08.25:373][  0]LightingResults: New page: Lighting Build
+[2021.08.27-03.08.25:377][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.08.27-03.08.25:619][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2021.08.27-03.08.25:627][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.08.27-03.08.25:628][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-03.08.25:659][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.27-03.08.25:662][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.08.27-03.08.25:668][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.27-03.08.25:669][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.27-03.08.25:669][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.08.27-03.08.25:669][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.298
+[2021.08.27-03.08.25:670][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.417
+[2021.08.27-03.08.26:002][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-03.08.26:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-03.08.26:010][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-03.08.26:013][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-03.08.26:059][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0075 seconds. Added 3601 classes and 859 folders.
+[2021.08.27-03.08.26:070][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.27-03.08.26:071][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-03.08.26:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-03.08.26:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.08.27-03.08.26:072][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.27-03.08.26:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.27-03.08.26:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.27-03.08.26:072][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.27-03.08.26:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.27-03.08.26:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.08.27-03.08.26:073][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-03.08.26:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-03.08.26:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.27-03.08.26:073][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.27-03.08.26:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.27-03.08.26:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.27-03.08.26:074][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.27-03.08.26:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.27-03.08.26:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.27-03.08.26:074][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.27-03.08.26:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.27-03.08.26:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.27-03.08.26:075][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.27-03.08.26:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.27-03.08.26:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.27-03.08.26:075][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-03.08.26:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-03.08.26:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.27-03.08.26:076][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.27-03.08.26:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.27-03.08.26:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.27-03.08.26:076][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.27-03.08.26:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.27-03.08.26:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.27-03.08.26:077][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-03.08.26:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-03.08.26:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.27-03.08.26:078][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-03.08.26:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-03.08.26:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.27-03.08.26:078][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-03.08.26:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-03.08.26:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.27-03.08.26:079][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.27-03.08.26:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.27-03.08.26:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.27-03.08.26:079][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-03.08.26:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-03.08.26:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.27-03.08.26:080][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.27-03.08.26:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.27-03.08.26:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.27-03.08.26:080][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-03.08.26:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-03.08.26:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.27-03.08.26:081][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-03.08.26:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-03.08.26:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.27-03.08.26:081][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-03.08.26:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-03.08.26:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.27-03.08.26:082][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-03.08.26:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-03.08.26:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.27-03.08.26:082][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-03.08.26:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-03.08.26:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.27-03.08.26:083][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.27-03.08.26:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.27-03.08.26:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.27-03.08.26:083][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-03.08.26:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-03.08.26:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.27-03.08.26:084][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-03.08.26:084][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:084][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-03.08.26:084][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.27-03.08.26:084][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.27-03.08.26:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-03.08.26:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.27-03.08.26:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.27-03.08.26:123][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.27-03.08.26:131][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.27-03.08.26:214][  0]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.27-03.08.26:219][  0]LogSlate: Took 0.000817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.27-03.08.26:226][  0]LogSlate: Took 0.004869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.27-03.08.26:273][  0]LogRenderer: Reallocating scene render targets to support 1540x992 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-03.08.26:683][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.27-03.08.26:683][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.27-03.08.26:683][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.08.27-03.08.26:683][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.27-03.08.26:683][  0]LogLoad: (Engine Initialization) Total time: 25.43 seconds
+[2021.08.27-03.08.26:683][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.27-03.08.26:683][  0]LogInit: First time updating LLM stats...
+[2021.08.27-03.08.26:699][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.08.27-03.08.26:699][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.08.27-03.08.26:716][  0]LogAssetRegistry: Asset discovery search completed in 18.9200 seconds
+[2021.08.27-03.08.26:718][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.08.27-03.08.26:835][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.27-03.08.35:905][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-03.08.35:912][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-03.08.35:917][ 50]PIE: New page: PIE session: TopDownExampleMap (Aug 26, 2021, 7:08:35 PM)
+[2021.08.27-03.08.35:918][ 50]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.27-03.08.35:920][ 50]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.27-03.08.35:922][ 50]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-03.08.35:937][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015289s)
+[2021.08.27-03.08.35:939][ 50]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-03.08.35:941][ 50]LogPlayLevel: PIE: World Init took: (0.003152s)
+[2021.08.27-03.08.35:941][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019534s)
+[2021.08.27-03.08.35:947][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.27-03.08.35:950][ 50]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-03.08.35:950][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-03.08.35:950][ 50]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-03.08.35:950][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-03.08.35:954][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-03.08.35:954][ 50]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-03.08.35:962][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.27-03.08.35:973][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-03.08.35:973][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-03.08.35:973][ 50]LogInit: FAudioDevice initialized.
+[2021.08.27-03.08.35:973][ 50]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.08.27-03.08.35:978][ 50]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-03.08.35:988][ 50]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.26-23.08.35
+[2021.08.27-03.08.35:990][ 50]LogWorld: Bringing up level for play took: 0.004515
+[2021.08.27-03.08.35:992][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.08.27-03.08.36:014][ 50]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.27-03.08.36:018][ 50]PIE: Server logged in
+[2021.08.27-03.08.36:020][ 50]PIE: Play in editor total start time 0.112 seconds.
+[2021.08.27-03.09.14:252][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-03.09.14:252][622]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-03.09.14:254][622]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-03.09.14:255][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-03.09.14:262][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-03.09.14:264][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-03.09.14:267][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-03.09.14:267][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-03.09.14:268][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-03.09.14:279][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-03.09.14:280][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.27-03.09.14:303][625]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: URL: C:\Users\natea\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:237][201]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.08.27-03.09.19:238][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:238][201]LogWindows: Warning: URL: C:\Users\natea\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.08.27-03.09.19:238][201]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.08.27-03.09.19:238][201]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.08.27-03.09.49:537][192]LogSlate: Window 'Source Control Login' being destroyed
