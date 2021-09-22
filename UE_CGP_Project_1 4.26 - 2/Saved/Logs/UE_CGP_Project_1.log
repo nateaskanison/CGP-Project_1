@@ -6093,3 +6093,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.22-22.56.28:343][490]LogSavePackage: Moving '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Saved/SpongeCharacterB2D836A847BACA40BB6E38BD78F88D5B.tmp' to '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Content/Blueprint/Testing/SpongeCharacter.uasset'
 [2021.09.22-22.56.28:363][490]AssetCheck: New page: Asset Save: SpongeCharacter
 [2021.09.22-22.56.28:363][490]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Testing/SpongeCharacter.SpongeCharacter
+[2021.09.22-22.57.39:437][246]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.09.22-22.57.39:456][246]LogSavePackage: Moving '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Saved/Test_Level6BB3FCE84C3AB65FB678C5A6F01699D9.tmp' to '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Content/Map/Test_Level.umap'
+[2021.09.22-22.57.39:494][246]AssetCheck: New page: Asset Save: Test_Level
+[2021.09.22-22.57.39:494][246]LogContentValidation: Display: Validating World /Game/Map/Test_Level.Test_Level
+[2021.09.22-22.59.59:374][378]LogSavePackage: Moving '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Saved/SpongeCharacter80174DE6472453FB2735928E2B06AAC6.tmp' to '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Content/Blueprint/Testing/SpongeCharacter.uasset'
+[2021.09.22-22.59.59:398][378]AssetCheck: New page: Asset Save: SpongeCharacter
+[2021.09.22-22.59.59:398][378]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Testing/SpongeCharacter.SpongeCharacter
+[2021.09.22-23.00.00:176][466]BlueprintLog: New page: Compile SpongeCharacter
+[2021.09.22-23.00.00:260][466]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2021.09.22-23.01.12:168][762]BlueprintLog: New page: Compile BP_Spill
+[2021.09.22-23.01.12:250][762]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2021.09.22-23.01.12:708][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Spill" FILE="../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Content/Blueprint/BP_Spill.uasset" SILENT=true
+[2021.09.22-23.01.12:725][807]LogSavePackage: Moving '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Saved/BP_Spill8EB428CB468ADBC714D367B991B0EBE8.tmp' to '../../../../../Users/jo764211/Documents/GitHub/CGP-Project_1/UE_CGP_Project_1 4.26 - 2/Content/Blueprint/BP_Spill.uasset'
+[2021.09.22-23.01.12:745][807]AssetCheck: New page: Asset Save: BP_Spill
+[2021.09.22-23.01.12:745][807]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/BP_Spill.BP_Spill
